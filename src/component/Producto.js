@@ -7,17 +7,16 @@ const styles = {
 
        border:'solid 1px #eee',
        boxShadow:'0 5px 5px rgb(0,0,0,0.1)',
-       with:'30%',
+       width:'100%',
        padding:'10px 15px',
        borderRadius:'5px'
     },
     img:{
 
-        with:'250px',
-        height:'38px'
-        //height:'4rem',
+        width:'400px',
+        height:'250px',
+        objectFit:'contain',
         
-
     }
 
 }

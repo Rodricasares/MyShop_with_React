@@ -5,6 +5,7 @@ const styles = {
     carro:{
     backgroundColor:'#359A2C',
     color:'#fff',
+    margin:'15px',
     border:'none',
     padding:'15px',
     borderRadius:'15px',
@@ -13,8 +14,8 @@ const styles = {
     },
     bubble:{
     position:'relative',
-    left:15,
-    top:22
+    left:30,
+    top:25
 }
 } 
 class Carro extends Component{

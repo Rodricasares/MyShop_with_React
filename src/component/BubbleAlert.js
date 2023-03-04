@@ -7,7 +7,7 @@ const styles = {
     color:'#fff',
     padding:'2px 10px',
     fontSize:'0.9rem',
-    with:'20px'
+    width:'20px'
     }
 } 
 class BobbleAlert extends Component{
