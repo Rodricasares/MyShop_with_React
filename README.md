@@ -72,7 +72,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # MyShop_with_React
 
 
-Application based on an icommers cart that contains several essential components for its operation:
+Application based on an eCommerce cart that contains several essential components for its operation:
 -Navbar
 -Title
 -Logo
