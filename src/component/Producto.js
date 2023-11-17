@@ -4,10 +4,10 @@ import Button from "./Button"
 
 const styles = {
     producto: {
-
+       margin:'4px',
        border:'solid 1px #eee',
        boxShadow:'0 5px 5px rgb(0,0,0,0.1)',
-       width:'100%',
+       width:'1auto',
        padding:'10px 15px',
        borderRadius:'5px'
     },

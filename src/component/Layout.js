@@ -5,11 +5,12 @@ const styles = {
     backgroundColor: "#fff",
     color: "#A283E",
     alignItems: "center",
+    justifyContent:'center',
     display: "flex",
-    flexDirection: "column",
+    flexFlow: "row wrap",
   },
   container: {
-    width: "1200px",
+    width: "auto",
   },
 };
 
